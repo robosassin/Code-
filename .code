@@ -1,0 +1,6 @@
+print("simple print statement")
+que = int(print("is your fav number the same as mine? enter yours here: ")
+if que == 6:
+  print("yippee!!1! its the same!")
+else:
+  print("aww, atleast you have one ig 🫤")
